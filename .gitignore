@@ -1,0 +1,13 @@
+
+
+# model files
+*.pt
+*.bin
+*.safetensors
+
+# env
+.env
+
+# python cache
+__pycache__/
+*.pyc
